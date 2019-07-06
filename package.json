@@ -1,0 +1,19 @@
+{
+  "name": "add_icon",
+  "version": "1.0.0",
+  "description": "Add an icon at both ends of string",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankik30/add-icon-to-string.git"
+  },
+  "author": "Ankitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankik30/add-icon-to-string/issues"
+  },
+  "homepage": "https://github.com/ankik30/add-icon-to-string#readme"
+}
